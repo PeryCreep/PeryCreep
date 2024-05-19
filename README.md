@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, i am PeryCreep 👋
 
+
+### My Stats on GitHub
+![PeryCreep Stats](https://github-readme-stats.vercel.app/api?username=perycreep&show=reviews,prs_merged,prs_merged_percentage)
 <!--
 **PeryCreep/PeryCreep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
