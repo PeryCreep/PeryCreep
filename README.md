@@ -1,5 +1,5 @@
-### Hi there, i am PeryCreep 👋
-
+### Hi there 👋
+I am a Scala <img src="https://github.com/PeryCreep/PeryCreep/assets/96946167/60f3b193-c1d6-4a82-95c2-76048bba2217" width ="17" height="17"/> developer from Russia
 
 ### My Stats on GitHub
 ![PeryCreep Stats](https://github-readme-stats.vercel.app/api?username=perycreep&show=reviews,prs_merged,prs_merged_percentage) ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=perycreep)
